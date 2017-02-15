@@ -1,5 +1,5 @@
 <?php
-    $con = mysqli_connect("currencyexchangerate.000webhostapp.com", "id812655_blagy87", "0808BLAGY87", "id812655_users");
+    $con = mysqli_connect("currencyexchangerate.000webhostapp.com", "id812655_blagy87", "BLAGY", "id812655_users");
     
     $username = $_POST["username"];
     $password = $_POST["password"];
